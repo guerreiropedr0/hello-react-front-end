@@ -1,0 +1,3 @@
+body {
+  background-color: #fff; /* To fix "unexpected empty source" linter error */
+}
